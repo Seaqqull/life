@@ -1,0 +1,25 @@
+﻿Сборка начата 28.02.2016 17:51:31.
+     1>Проект "C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\Life\Life\Life.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Life.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Life.cpp LifeDoc.cpp LifeView.cpp MainFrm.cpp Option.cpp
+         Life.cpp
+         LifeDoc.cpp
+         LifeView.cpp
+         MainFrm.cpp
+         Option.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\Life\Release\Life.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\Life\Release\Life.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\Life\Release\Life.lib" /MACHINE:X86 /SAFESEH Release\Life.res
+         Release\Life.obj
+         Release\LifeDoc.obj
+         Release\LifeView.obj
+         Release\MainFrm.obj
+         Release\Option.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         Life.vcxproj -> C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\Life\Release\Life.exe
+     1>Сборка проекта "C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\Life\Life\Life.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.40
